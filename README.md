@@ -1,0 +1,1 @@
+# -Pattern-star-by-using-java-
